@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f5f5f5;
+}
+header {
+  background: #111;
+  color: white;
+  padding: 1rem;
+}
+header h1 {
+  margin: 0;
+}
+nav a {
+  color: white;
+  margin-right: 1rem;
+  text-decoration: none;
+}
+main {
+  padding: 1rem;
+}
+.highlight, .news-list {
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+article h3 {
+  margin-top: 0;
+}
+footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
